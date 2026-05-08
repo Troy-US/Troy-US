@@ -1,16 +1,18 @@
-## Hi there 👋
+> whoami
+Troy-US
 
-<!--
-**Troy-US/Troy-US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> aliases
+👋
 
-Here are some ideas to get you started:
+> domain
+- security research
+- adversarial thinking
+- systems architecture
+- quantitative infrastructure
+- agentic system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> approach
+offense-informed defense
+reasoning over randomness
+systems over surface fixes
+
